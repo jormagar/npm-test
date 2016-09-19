@@ -1,0 +1,10 @@
+{
+  "name": "npm-test",
+  "version": "1.0.0",
+  "description": "Librería mierda",
+  "main": "libreria.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jormagar/npm-test.git"
+  }
+}
